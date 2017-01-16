@@ -1,1 +1,1 @@
-web: gunicorn plexus.wsgi --log-file--
+web: gunicorn plexus.wsgi --log-file -
